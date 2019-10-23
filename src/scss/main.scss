@@ -1,3 +1,16 @@
 body {
-    background: red;
+    background: rgb(247, 203, 203);
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(133, 235, 133);
+}
+
+.conatainer {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+
 }

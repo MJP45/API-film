@@ -1,2 +1,12 @@
 body {
-  background: red; }
+  background: #f7cbcb; }
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #85eb85; }
+
+.conatainer {
+  display: flex;
+  flex-direction: row;
+  align-content: space-between; }
